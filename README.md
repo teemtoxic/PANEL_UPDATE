@@ -1,4 +1,4 @@
-Version == RDX_V3 ,,,
+Version == RDX_V4 ,,,
 Extract Folder And Remove old version of RDX.
 Move the Panel in other file
 Delete PANEL_UPDATE Folder and RDX_PANEL.zip
